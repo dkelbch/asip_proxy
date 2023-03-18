@@ -1,0 +1,15 @@
+{
+  "name": "asip_proxy",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dirk <dkelbch@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "sip": "0.0.6"
+  }
+}

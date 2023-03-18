@@ -1,0 +1,10 @@
+{
+    "accounts"  : [
+        {"user" : "1000", "pwd":"p1000", "contact":"", "status":"none"},
+        {"user" : "1001", "pwd":"p1001", "contact":"", "status":"none"},
+        {"user" : "1002", "pwd":"p1002", "contact":"", "status":"none"},
+        {"user" : "1003", "pwd":"p1003", "contact":"", "status":"none"},
+        {"user" : "1004", "pwd":"p1004", "contact":"", "status":"none"},
+        {"user" : "1005", "pwd":"p1005", "contact":"", "status":"none"}
+    ]
+}
